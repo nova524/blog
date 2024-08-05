@@ -1,7 +1,7 @@
 ---
 title: 중학수학 3-1 [제곱근과 실수]
 published: 2024-08-05
-description: ''
+description: '제곱근의 뜻과 표현, 제곱근의 성질, 무리수와 실수'
 image: ''
 tags: [math]
 category: '중학수학 3-1'
