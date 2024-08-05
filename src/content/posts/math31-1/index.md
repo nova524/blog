@@ -4,6 +4,6 @@ published: 2024-08-05
 description: ''
 image: ''
 tags: [math]
-category: 'math3-1'
+category: '중학수학 3-1'
 draft: false 
 ---
