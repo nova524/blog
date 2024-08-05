@@ -59,9 +59,9 @@ export const profileConfig: ProfileConfig = {
       url: 'https://twitter.com',
     },
     {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      name: 'Instagram',
+      icon: 'fa6-brands:instagram',
+      url: 'https://www.instagram.com/seung.jade/',
     },
     {
       name: 'GitHub',
