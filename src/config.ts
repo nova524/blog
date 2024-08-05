@@ -52,11 +52,11 @@ export const profileConfig: ProfileConfig = {
   bio: '차승민 - 은계중학교',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
+      name: 'Discord',
+      icon: 'fa6-brands:discord',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://twitter.com',
+      url: 'https://discord.gg/cgBBNMG5Xn',
     },
     {
       name: 'Instagram',
