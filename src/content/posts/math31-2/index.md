@@ -21,3 +21,7 @@ draft: false
 1. **$$\sqrt{a} \div \sqrt{b}$$** = $\frac{\sqrt{a}}{\sqrt{b}}$ = $$\sqrt{\frac{a}{b}}$$
 
 2. $$m\sqrt{a} \div n\sqrt{a}$$ = $$\frac{m}{n}\sqrt{\frac{a}{b}}$$
+
+### 2. 근호가 있는 식의 변형은 어떻게 하는가?
+(1) 근호 안의 제곱인 인수는 근호 밖으로 꺼낼 수 있다.
+
