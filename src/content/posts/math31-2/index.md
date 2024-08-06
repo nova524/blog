@@ -20,4 +20,4 @@ draft: false
 
 1. **$$\sqrt{a} \div \sqrt{b}$$** = $\frac{\sqrt{a}}{\sqrt{b}}$ = $$\sqrt{\frac{a}{b}}$$
 
-2. **$$m\sprt{a} \div n\sprt{b}$$** = $$frac{m}{n}\sqrt{\frac{a}{b}}$$
+2. $$m\sqrt{a} \div n\sqrt{a}$$ = $$\frac{m}{n}\sqrt{\frac{a}{b}}$$
