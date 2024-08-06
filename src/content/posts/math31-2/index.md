@@ -14,8 +14,8 @@ draft: false
 
 1. **$$\sqrt{a} \times \sqrt{b}$$** = $$\sqrt{a}$$ $$\sqrt{b}$$ = **$$\sqrt{ab}$$**
 
-2. $$m\sqrt{a}$$ * $$n\sqrt{b}$$ =  $$mn\sqrt{ab}$$
+2. $$m\sqrt{a} \times n\sqrt{b}$$ =  $$mn\sqrt{ab}$$
 
 (2) **제곱근의 나눗셈**: a>0, b>0이고 m, n 이 유리수일 때
 
-1. **$$\sqrt{a} \div \sqrt{b}$$** = $$\sqrt{a} / \sqrt{b}$$
+1. **$$\sqrt{a} \div \sqrt{b}$$** = $\frac{\sqrt{a}}{\sqrt{b}}$ = $$\sqrt{\frac{a}{b}}$$
