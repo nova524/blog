@@ -12,10 +12,10 @@ draft: false
 ### 1. 제곱근의 곱셈과 나눗셈은 어떻게 하는가?
 (1) **제곱근의 곱셈**: a>0, b>0이고 m, n이 유리수일 때
 
-1. **$$\sqrt{a}$$ * $$\sqrt{b}$$** = $$\sqrt{a}$$ $$\sqrt{b}$$ = **$$\sqrt{ab}$$**
+1. **$$\sqrt{a} \times \sqrt{b}$$** = $$\sqrt{a}$$ $$\sqrt{b}$$ = **$$\sqrt{ab}$$**
 
-2. m $$\sqrt{a}$$ * n $$\sqrt{b}$$ = mn $$\sqrt{ab}$$
+2. $$m\sqrt{a}$$ * $$n\sqrt{b}$$ =  $$mn\sqrt{ab}$$
 
 (2) **제곱근의 나눗셈**: a>0, b>0이고 m, n 이 유리수일 때
 
-1. **$$\sqrt{a}$$ / $$\sqrt{b}$$** = $$\sqrt{a} / \sqrt{b}$$
+1. **$$\sqrt{a} \div \sqrt{b}$$** = $$\sqrt{a} / \sqrt{b}$$
